@@ -56,6 +56,14 @@
 
 ---
 
+### 7. [NeonMint](https://github.com/EFEELE/NeonMint)
+
+[![GitHub Stars](https://img.shields.io/github/stars/EFEELE/NeonMint?style=flat&logo=github&color=00d4aa&labelColor=282c34)](https://github.com/EFEELE/NeonMint)
+
+[![NeonMint preview](https://pic.axi404.top/image.6f0ycj4h7j.webp)](https://neonmint.efeele.dev/)
+
+---
+
 ## ⚡ Hugo 系列
 
 ### 1. [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
@@ -89,6 +97,16 @@
 [![GitHub Stars](https://img.shields.io/github/stars/hairyf/valaxy-theme-hairy?style=flat&logo=github&color=10b981&labelColor=282c34)](https://github.com/hairyf/valaxy-theme-hairy)
 
 [![hairy preview](https://pic.axi404.top/image.7w73ea0bsy.webp)](https://hairy.blog/)
+
+---
+
+## 📝 Typecho 系列
+
+### 1. [Typecho-Theme-VOID](https://github.com/AlanDecode/Typecho-Theme-VOID)
+
+[![GitHub Stars](https://img.shields.io/github/stars/AlanDecode/Typecho-Theme-VOID?style=flat&logo=github&color=9333ea&labelColor=282c34)](https://github.com/AlanDecode/Typecho-Theme-VOID)
+
+[![VOID preview](https://pic.axi404.top/image.7lk9l4rsfr.webp)](https://blog.imalan.cn/)
 
 ---
 
