@@ -56,6 +56,42 @@
 
 ---
 
+## ⚡ Hugo 系列
+
+### 1. [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
+
+[![GitHub Stars](https://img.shields.io/github/stars/CaiJimmy/hugo-theme-stack?style=flat&logo=github&color=8b5cf6&labelColor=282c34)](https://github.com/CaiJimmy/hugo-theme-stack)
+
+[![stack preview](https://pic.axi404.top/image.4g4rm6ndor.webp)](https://demo.stack.jimmycai.com/)
+
+---
+
+### 2. [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+
+[![GitHub Stars](https://img.shields.io/github/stars/adityatelange/hugo-PaperMod?style=flat&logo=github&color=f97316&labelColor=282c34)](https://github.com/adityatelange/hugo-PaperMod)
+
+[![PaperMod preview](https://pic.axi404.top/image.64e4jdfcna.webp)](https://adityatelange.github.io/hugo-PaperMod/)
+
+---
+
+## 🌸 Valaxy 系列
+
+### 1. [valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)
+
+[![GitHub Stars](https://img.shields.io/github/stars/WRXinYue/valaxy-theme-sakura?style=flat&logo=github&color=ff69b4&labelColor=282c34)](https://github.com/WRXinYue/valaxy-theme-sakura)
+
+[![sakura preview](https://pic.axi404.top/image.4g4rm6mkmw.webp)](https://sakura.valaxy.site/)
+
+---
+
+### 2. [valaxy-theme-hairy](https://github.com/hairyf/valaxy-theme-hairy)
+
+[![GitHub Stars](https://img.shields.io/github/stars/hairyf/valaxy-theme-hairy?style=flat&logo=github&color=10b981&labelColor=282c34)](https://github.com/hairyf/valaxy-theme-hairy)
+
+[![hairy preview](https://pic.axi404.top/image.7w73ea0bsy.webp)](https://hairy.blog/)
+
+---
+
 ## 📮 投稿 & 维护
 
 你也有想分享的博客主题？欢迎通过 [Issue](https://github.com/你的仓库/issues) 进行投稿！我会定期整理、更新，并保持一个高质量的主题列表。
